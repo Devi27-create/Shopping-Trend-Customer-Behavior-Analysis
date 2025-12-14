@@ -1,6 +1,6 @@
 # Shopping Trends & Customer Behavior Dashboard
 
-### A Data Visualization Project Powered by AI Storytelling
+### A Data Visualization Project
 
 ![Dashboard Preview](https://github.com/Devi27-create/Shopping-Trend-Customer-Behavior-Analysis/blob/main/Dashboard.png)
 
