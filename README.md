@@ -100,15 +100,15 @@ This project follows the **5A Model** for data storytelling:
 
 ## Project Structure
 ├── data/
-│ └── Shopping Trends And Customer Behaviour Dataset.csv
-├── visuals/
-│ └── dashboard_preview.png
-├── scripts/
-│ └── cleaned_shopping_trends_and_customer_behaviour.sql
-├── reports/
-│ └── Project_Insights_Report.pdf
-├── Shopping trend and customer behavior.pbix
-└── README.md
+  │ └── Shopping Trends And Customer Behaviour Dataset.csv
+    ├── visuals/
+      │ └── dashboard_preview.png
+        ├── scripts/
+          │ └── cleaned_shopping_trends_and_customer_behaviour.sql
+            ├── reports/
+              │ └── Project_Insights_Report.pdf
+                ├── Shopping trend and customer behavior.pbix
+                  └── README.md
 
 ---
 
